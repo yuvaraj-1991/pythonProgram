@@ -14,7 +14,7 @@ two-Hundred and twenty eight
 
 =================================================================================================
 
-# I have used dictionary{} to store the data as it would be easier to get the value of key using get() method.
+# Have used dictionary{} to store the data as it would be easier to get the value of key using get() method.
 
-I have used conditions to separate 0 to hundred && hundred to 1001.
+# Have used conditions to separate 0 to hundred && hundred to 1001.
 
