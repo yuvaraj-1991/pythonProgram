@@ -37,7 +37,7 @@ elif num > 100:
      hundred_digit = numberWords.get(hundred_digit * 100)
      result = hundred_digit + " and " + tens_digit + " " + ones_digit
     #  result = hundred_digit + "-hundred and " + tens_digit + " " + ones_digit
-     print(result)
+     print(num, " In words is " + result)
 
 else:
     print("Number is In-Valid")
